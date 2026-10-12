@@ -10,3 +10,4 @@ oku(değer)
 EĞER değerin>=50 YAZ *kritik eşik*
 değilse Yaz "durum normal"
 Dur
+##Kaynakca : Ders Kitabi
